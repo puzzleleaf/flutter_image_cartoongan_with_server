@@ -1,16 +1,30 @@
-# cartoongan
+# Flutter CartoonGAN with Python Flask, Heroku
+I made a machine learning API server using Python Flask. And I deployed API using Heroku free service.
 
-A new Flutter application.
+<p align="center">
+ <img src="readme/main.gif" width='1024'/>
+</p>
 
-## Getting Started
+## Youtube
+[Flutter CartoonGAN with Python Flask, Heroku - SpeedCode](https://youtu.be/kxh9BHfkD2A)
+<p align="center">
+ <img src="readme/youtube.png" width='1024'/>
+</p>
 
-This project is a starting point for a Flutter application.
+## Github (Python Flask)
+- https://github.com/PuzzleLeaf/flutter_image_cartoongan_with_server
 
-A few resources to get you started if this is your first Flutter project:
+## Server API
+- https://puzzleleaf-ml-server.herokuapp.com/v1/image/convert_cartoon
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+## Python Flask
+- https://pythonbasics.org/what-is-flask-python/
+Flask is a web framework, it’s a Python module that lets you develop web applications easily.
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Heroku
+- https://www.heroku.com/
+Heroku is a container-based cloud Platform as a Service (PaaS).
+Developers use Heroku to deploy, manage, and scale modern apps.
+
+## Keyword
+CartoonGAN, Python, Flask, Heroku, Flutter, Tensorflow
