@@ -12,7 +12,7 @@ I made a machine learning API server using Python Flask. And I deployed API usin
 </p>
 
 ## Github (Python Flask)
-- https://github.com/PuzzleLeaf/flutter_image_cartoongan_with_server
+- https://github.com/PuzzleLeaf/tensorflow_flask_api_server
 
 ## Server API
 - https://puzzleleaf-ml-server.herokuapp.com/v1/image/convert_cartoon
